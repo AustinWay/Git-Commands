@@ -1,0 +1,14 @@
+Git Commands 
+------------
+
+Create a new repository in BitBucket
+
+git init 
+git add . 
+git commit -am "Comment"
+
+git remote add origin https://away2@bitbucket.org/away2/... or https://github.com/AustinWay/...
+git push -u origin master
+
+To push commited changes to BitBucket/Github to master branch: 
+	git push -u origin master
